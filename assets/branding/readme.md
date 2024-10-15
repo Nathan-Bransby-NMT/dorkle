@@ -1,3 +1,3 @@
 # Dorkle related branding assets
 
-![Dorkle Logo](./dorkle-logo.png)
+![Dorkle Logo](./Dorkle-Logo.png)
